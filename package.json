@@ -17,8 +17,15 @@
     "vite": "^6.3.5"
   },
   "dependencies": {
+    "class-variance-authority": "^0.7.1",
+    "clsx": "^2.1.1",
+    "daisyui": "^5.0.35",
+    "lucide-react": "^0.510.0",
     "react": "^19.1.0",
-    "react-dom": "^19.1.0"
+    "react-dom": "^19.1.0",
+    "shadcn": "^2.5.0",
+    "tailwind-merge": "^3.3.0",
+    "tw-animate-css": "^1.2.9"
   },
   "description": ""
 }
